@@ -16,9 +16,10 @@
 
 ---
 
-## Screenshots
+## Screenshots<img width="1344" height="691" alt="Screenshot 2026-02-15 231915" src="https://github.com/user-attachments/assets/5a60864b-694f-4509-858d-3e0f295202fa" />
 
-*(Add screenshots of your dashboard, leaderboard, and progress bar here if available)*
+
+
 
 ---
 
@@ -27,5 +28,5 @@
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/yourusername/fittracker.git
+git clone https://github.com/chihunanya/fittracker.git
 cd fittracker
